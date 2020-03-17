@@ -1,3 +1,6 @@
 .flex-container {
   flex-direction: row;
 }
+body {
+  font-family: 'Poppins', sans-serif;
+}
