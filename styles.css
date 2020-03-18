@@ -11,6 +11,10 @@ body {
   text-align: center;
   color: hsl(234, 12%, 34%);
 }
+header {
+  width: 500px;
+  margin:auto;
+}
 h1 {
   font-weight: 200;
   font-size: 2.25rem;
@@ -33,7 +37,7 @@ h3 {
 .card {
   width: 350px;
   height: 250px;
-  padding: 40px;
+  padding: 30px;
   margin: 30px 15px;
   border-radius: 6px;
   background-color: white;
@@ -45,8 +49,8 @@ h3 {
 }
 .card img {
   position: absolute;
-  bottom: 40px;
-  right: 40px;
+  bottom: 30px;
+  right: 30px;
 }
 .cyan {
   border-color: hsl(180, 62%, 55%)
